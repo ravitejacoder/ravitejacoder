@@ -1,11 +1,11 @@
 ### hey there
 
 <a href="https://www.instagram.com/ravitejavarma2804/">
-<img align="left" alt="Raviteja's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<img alt="Raviteja's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 <a href="https://www.linkedin.com/in/raviteja-varma-m-39b7a6216/">
-  <img align="left" alt="Raviteja's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img alt="Raviteja's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 <br />
-<br />
+
   
 #### hi, i'm Raviteja Varma, a passionate data scientist or data analyst from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
